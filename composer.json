@@ -1,0 +1,7 @@
+{
+    "require": {
+        "bitrix-expert/monolog-adapter": "^1.0",
+        "rollbar/rollbar": "^1",
+        "mesilov/bitrix24-php-sdk": "dev-master"
+    }
+}
